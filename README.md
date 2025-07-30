@@ -5,8 +5,6 @@
 Aqui estão os arquivos utilizados na **trilha** da disciplina **Introdução a Visualização de Dados e SQL**
 
 💡 [**Clique aqui para acessar os arquivos**](/files/)
-<<<<<<< HEAD
-=======
 
 ## Arquivos por trilha
 
@@ -20,4 +18,3 @@ Abaixo estão os arquivos utilizados na disciplina **Introdução a Visualizaç�
 
 - **Trilha 3 - Criação de Relatórios com GLS**
   [📂 Acessar arquivos](files/Chapter2-AccountData.csv)
->>>>>>> 72e62c3 (add trilha 1, 2, 3 files in readme)
