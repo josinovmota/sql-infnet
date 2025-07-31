@@ -2,15 +2,14 @@
 
 ![sql-infnet-header](/assets/logo_instituto_infnet.png)
 
-Aqui estão os arquivos utilizados na **trilha** da disciplina **Introdução a Visualização de Dados e SQL**
+Aqui estão os arquivos utilizados na **trilha** da disciplina **Introdução a Visualização de Dados e SQL**:
 
 💡 [**Clique aqui para acessar os arquivos**](/files/)
 
----
 
 ## Arquivos por trilha
 
-Abaixo estão os arquivos utilizados na disciplina **Introdução a Visualização de Dados e SQL** ordenados por trilha
+Abaixo estão os arquivos utilizados na disciplina **Introdução a Visualização de Dados e SQL** ordenados por trilha:
 
 - **Trilha 1 - Introdução ao Google Looker Studio**  
   [📂 Acessar arquivos](files/Ch1_ExampleCSV.csv)
